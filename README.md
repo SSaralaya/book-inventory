@@ -2,7 +2,7 @@ This project is a Book Inventory Management System built with Spring Boot. It al
 
 Tech Stack Used
 Backend:
-        Spring Boot: For creating a robust and scalable REST API.
+        Spring Boot
         Spring Data JPA: For database interactions.
         Thymeleaf: For server-side rendering of HTML pages.
         Database: MySQL
